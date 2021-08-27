@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ilham
 - 👀 I’m interested in Computer Networking, Automation and Development.
-- 🌱 I’m currently learning Devnt by Cisco.
+- 🌱 I’m currently learning Devnet by Cisco.
 - 💞️ I’m looking to collaborate on Building Website Project
 - 📫 How to reach me on Twitter (www.twitter.com/zulhaamid)
 
